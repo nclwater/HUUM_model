@@ -1,0 +1,11 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "datetime",
+    "tqdm",
+    "numpy",
+    "python-dateutil",
+    "pandas"
+]
+build-backend = "setuptools.build_meta"
+
